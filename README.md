@@ -1,2 +1,2 @@
 # rpsGame
-Rock, Paper, Scissors GAme played with one persom shooter gamer w/ CPU
+Rock, Paper, Scissors Game played by one person shooter gamer with CPU
